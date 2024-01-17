@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fred Rowe</h1>
-<h3 align="center">A passionate full stack web and blockchain developer</h3>
+
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-<h3>Full Stack Developer</h3>
+
+## 💡 Connect with me :
+<p align="left"> 
+<a href="http:/dedicatedsoftdev.github.io" target="_blank"><img src="https://img.shields.io/website?label=dedicatedsoftdev.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="dedicatedsoftdev.github.io" /></a>&nbsp
+   <a href="mailto:erosnewcentury@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erosnewcentury@gmail.com" />
+  </a>
+</p>
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<h3 align="center">A passionate full stack web and blockchain developer</h3>
 <hr>
 <p>👍 I am a seasoned senior developer with a comprehensive skill set spanning across Fullstack Development, Smart Contract Development, Mobile App Development, and expertise in NFT minting. With a passion for innovation and a proven track record of delivering high-quality solutions, I bring a unique blend of technical proficiency and creative problem-solving to the table. I have developed and deployed 20+ website and 10+ NFT mint/marketplace projects in 6+ years</p>
 <p>✨ I excel in both front-end and back-end technologies, ensuring seamless end-to-end development. My proficiency in languages such as JavaScript, Python, and frameworks like React and Node.js empowers me to create dynamic, responsive, and scalable web applications.</p>
