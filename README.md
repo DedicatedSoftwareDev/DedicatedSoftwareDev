@@ -4,7 +4,7 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="http:/dedicatedsoftdev.github.io" target="_blank"><img src="https://img.shields.io/website?label=dedicatedsoftdev.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="dedicatedsoftdev.github.io" /></a>&nbsp
+<a href="https://dedicatedsoftwaredev.github.io/" target="_blank"><img src="https://img.shields.io/website?label=dedicatedsoftwaredev.github.io/&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="dedicatedsoftwaredev.github.io/" /></a>&nbsp
    <a href="mailto:erosnewcentury@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erosnewcentury@gmail.com" />
   </a>
