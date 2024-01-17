@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-<h3 align="center">A passionate full stack web and blockchain developer.</h3>
+<h2 align="center">A passionate full stack web and blockchain developer</h2>
 <hr>
 
 ## 💡 Connect with me :
