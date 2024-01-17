@@ -4,6 +4,17 @@
 
 <h3 align="center">A passionate full stack web and blockchain developer.</h3>
 <hr>
+
+## 💡 Connect with me :
+<p align="left"> 
+<a href="http://dedicatedsoftwaredev.github.io" target="_blank"><img src="https://img.shields.io/website?label=dedicatedsoftwaredev.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="dedicatedsoftwaredev.github.io" /></a>&nbsp
+   <a href="mailto:erosnewcentury@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:erosnewcentury@gmail.com" />
+  </a>
+</p>
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <p>👍 I am a seasoned senior developer with a comprehensive skill set spanning across Fullstack Development, Smart Contract Development, Mobile App Development, and expertise in NFT minting. 
 With a passion for innovation and a proven track record of delivering high-quality solutions, I bring a unique blend of technical proficiency and creative problem-solving to the table. 
 I have developed and deployed 20+ website and 10+ NFT mint/marketplace projects in 6+ years.</p>
