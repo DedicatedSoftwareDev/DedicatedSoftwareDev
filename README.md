@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fred Rowe</h1>
 <h3 align="center">A passionate full stack web and blockchain developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorsh818&label=Profile%20views&color=0e75b6&style=flat" alt="viktorsh818" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktorsh818" alt="viktorsh818" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3>Full Stack Developer</h3>
 <hr>
 <p>👍 I am a full stack developer with a passion for creating clean, efficient, and user-friendly web pplications. My expertise lies in building scalable and robust applications using a variety of programming languages and frameworks, including Django, React, Next.js, Vue.js, Laravel and ASP.NET. And I have rich experience in mobile app development based on React Native and Flutter.</p>
