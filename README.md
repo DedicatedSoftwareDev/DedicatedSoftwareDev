@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A passionate full stack developer from Singapore</h3>
+<h1 align="center">Hi 👋, I'm Fred Rowe</h1>
+<h3 align="center">A passionate full stack web and blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorsh818&label=Profile%20views&color=0e75b6&style=flat" alt="viktorsh818" /> </p>
 
